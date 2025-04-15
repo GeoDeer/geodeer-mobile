@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\development\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\Lenovo\AndroidStudioProjects\geodeer_login"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Lenovo\OneDrive\Masaüstü\geodeerzaygul\geodeer-mobile"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"

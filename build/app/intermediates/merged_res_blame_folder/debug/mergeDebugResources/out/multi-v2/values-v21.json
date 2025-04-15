@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.geodeer_login.app-mergeDebugResources-24:/values-v21/values-v21.xml",
+            "outputFile": "com.example.geodeer_mobile.app-mergeDebugResources-26:/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\8fab08a6f6e27ebe9881e5845ef81bc7\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",

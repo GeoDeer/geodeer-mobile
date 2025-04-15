@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.geodeer_login.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.geodeer_mobile.app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\geodeer_login\\geodeer_login\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Lenovo\\geodeerzaygul\\geodeer-mobile\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

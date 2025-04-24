@@ -1,0 +1,1 @@
+C:\Users\Lenovo\AndroidStudioProjects\geodeer_login\geodeer_login\build\app\intermediates\cxx\Debug\1m188412\obj\arm64-v8a

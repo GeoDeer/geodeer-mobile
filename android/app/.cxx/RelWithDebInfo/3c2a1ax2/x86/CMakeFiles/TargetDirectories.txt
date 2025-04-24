@@ -1,0 +1,2 @@
+C:/Users/aziza/geodeer/geodeer_login/geodeer_login/geodeer_login/android/app/.cxx/RelWithDebInfo/3c2a1ax2/x86/CMakeFiles/edit_cache.dir
+C:/Users/aziza/geodeer/geodeer_login/geodeer_login/geodeer_login/android/app/.cxx/RelWithDebInfo/3c2a1ax2/x86/CMakeFiles/rebuild_cache.dir

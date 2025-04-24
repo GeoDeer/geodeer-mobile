@@ -1,0 +1,2 @@
+C:/Users/Lenovo/AndroidStudioProjects/geodeer_login/android/app/.cxx/Debug/1i6e1y2t/x86/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/AndroidStudioProjects/geodeer_login/android/app/.cxx/Debug/1i6e1y2t/x86/CMakeFiles/rebuild_cache.dir

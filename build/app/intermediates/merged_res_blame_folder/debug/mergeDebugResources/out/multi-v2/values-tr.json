@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "com.example.geodeer_login.app-mergeDebugResources-27:/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\aziza\\.gradle\\caches\\8.10.2\\transforms\\472f0be6a2cf68d481abc1885971a1f3\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-tr\\values.xml",
+=======
+            "outputFile": "com.example.geodeer_mobile.app-mergeDebugResources-26:/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\472f0be6a2cf68d481abc1885971a1f3\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-tr\\values.xml",
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +28,28 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\aziza\\.gradle\\caches\\8.10.2\\transforms\\43c9e116838c7a3d9f358f5d2e3c873b\\transformed\\jetified-play-services-base-18.3.0\\res\\values-tr\\values.xml",
+=======
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\8fab08a6f6e27ebe9881e5845ef81bc7\\transformed\\core-1.13.1\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,449,551,657,768",
+                        "endColumns": "96,101,97,96,101,105,110,100",
+                        "endOffsets": "147,249,347,444,546,652,763,864"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,27",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,449,551,657,3019",
+                        "endColumns": "96,101,97,96,101,105,110,100",
+                        "endOffsets": "147,249,347,444,546,652,763,3115"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\43c9e116838c7a3d9f358f5d2e3c873b\\transformed\\jetified-play-services-base-18.3.0\\res\\values-tr\\values.xml",
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -36,6 +64,7 @@
                         "endColumns": "109,154,135,104,146,129,126,105,171,106,156,133,144,166,61,63,79",
                         "endOffsets": "873,1028,1164,1269,1416,1546,1673,1779,2098,2205,2362,2496,2641,2808,2870,2934,3014"
                     }
+<<<<<<< HEAD
                 },
                 {
                     "source": "C:\\Users\\aziza\\.gradle\\caches\\8.10.2\\transforms\\c105c94b5a74bdd649fb57cbc60195ab\\transformed\\browser-1.8.0\\res\\values-tr\\values-tr.xml",
@@ -70,6 +99,8 @@
                         "endColumns": "96,101,97,96,101,105,110,100",
                         "endOffsets": "147,249,347,444,546,652,763,3534"
                     }
+=======
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                 }
             ]
         }

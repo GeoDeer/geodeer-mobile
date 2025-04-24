@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "com.example.geodeer_login.app-debug-29:/mipmap-hdpi_ic_launcher.png.flat",
         "source": "com.example.geodeer_login.app-main-24:/mipmap-hdpi/ic_launcher.png"
     },
@@ -22,5 +23,29 @@
     {
         "merged": "com.example.geodeer_login.app-debug-29:/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "com.example.geodeer_login.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+=======
+        "merged": "com.example.geodeer_mobile.app-debug-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.geodeer_mobile.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.geodeer_mobile.app-debug-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.geodeer_mobile.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.geodeer_mobile.app-debug-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.geodeer_mobile.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.geodeer_mobile.app-debug-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.geodeer_mobile.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.geodeer_mobile.app-debug-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.geodeer_mobile.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.geodeer_mobile.app-debug-28:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.geodeer_mobile.app-main-23:/drawable-v21/launch_background.xml"
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     }
 ]

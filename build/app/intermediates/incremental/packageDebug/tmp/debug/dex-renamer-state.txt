@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Thu Apr 24 14:53:09 TRT 2025
 base.0=C\:\\Users\\aziza\\geodeer\\geodeer_login\\geodeer_login\\geodeer_login\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\aziza\\geodeer\\geodeer_login\\geodeer_login\\geodeer_login\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
@@ -9,6 +10,19 @@ path.1=0/classes.dex
 path.2=0/classes.dex
 path.3=1/classes.dex
 path.4=6/classes.dex
+=======
+#Tue Apr 15 18:06:33 TRT 2025
+base.0=C\:\\Users\\Lenovo\\geodeerzaygul\\geodeer-mobile\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Lenovo\\geodeerzaygul\\geodeer-mobile\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Lenovo\\geodeerzaygul\\geodeer-mobile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=C\:\\Users\\Lenovo\\geodeerzaygul\\geodeer-mobile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.4=C\:\\Users\\Lenovo\\geodeerzaygul\\geodeer-mobile\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=0/classes.dex
+path.3=13/classes.dex
+path.4=1/classes.dex
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex

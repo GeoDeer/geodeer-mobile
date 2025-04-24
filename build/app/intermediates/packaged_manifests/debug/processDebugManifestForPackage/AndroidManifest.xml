@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.geodeer_login"
+=======
+    package="com.example.geodeer_mobile"
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -13,6 +17,7 @@
          to allow setting breakpoints, to provide hot reload, etc.
     -->
     <uses-permission android:name="android.permission.INTERNET" />
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <!--
@@ -22,6 +27,11 @@
 
          In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
     -->
+=======
+    <!-- Geolocator için gerekli konum izinleri -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Text işleme (PROCESS_TEXT) için gerekli query tanımlamaları -->
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     <queries>
         <intent>
             <action android:name="android.intent.action.PROCESS_TEXT" />
@@ -31,10 +41,17 @@
     </queries>
 
     <permission
+<<<<<<< HEAD
         android:name="com.example.geodeer_login.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="com.example.geodeer_login.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+=======
+        android:name="com.example.geodeer_mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.geodeer_mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
 
     <application
         android:name="android.app.Application"
@@ -42,13 +59,20 @@
         android:debuggable="true"
         android:extractNativeLibs="true"
         android:icon="@mipmap/ic_launcher"
+<<<<<<< HEAD
         android:label="geodeer_login" >
         <activity
             android:name="com.example.geodeer_login.MainActivity"
+=======
+        android:label="geodeer_mobile" >
+        <activity
+            android:name="com.example.geodeer_mobile.MainActivity"
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"
+<<<<<<< HEAD
             android:taskAffinity=""
             android:theme="@style/LaunchTheme"
             android:windowSoftInputMode="adjustResize" >
@@ -59,6 +83,12 @@
                  while the Flutter UI initializes. After that, this theme continues
                  to determine the Window background behind the Flutter UI.
             -->
+=======
+            android:theme="@style/LaunchTheme"
+            android:windowSoftInputMode="adjustResize" >
+
+            <!-- Uygulama başlatıldığında kullanılacak tema -->
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             <meta-data
                 android:name="io.flutter.embedding.android.NormalTheme"
                 android:resource="@style/NormalTheme" />
@@ -69,10 +99,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <!--
              Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
         -->
+=======
+        <!-- Flutter v2 embedding bilgisi -->
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
@@ -83,11 +117,14 @@
             android:exported="false"
             android:foregroundServiceType="location" />
 
+<<<<<<< HEAD
         <activity
             android:name="io.flutter.plugins.urllauncher.WebViewActivity"
             android:exported="false"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
 
+=======
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
         <uses-library
             android:name="androidx.window.extensions"
             android:required="false" />
@@ -106,7 +143,11 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
+<<<<<<< HEAD
             android:authorities="com.example.geodeer_login.androidx-startup"
+=======
+            android:authorities="com.example.geodeer_mobile.androidx-startup"
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             android:exported="false" >
             <meta-data
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"

@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "com.example.geodeer_login.app-mergeDebugResources-27:/values-pt/values-pt.xml",
             "map": [
                 {
@@ -22,12 +23,19 @@
                 },
                 {
                     "source": "C:\\Users\\aziza\\.gradle\\caches\\8.10.2\\transforms\\8fab08a6f6e27ebe9881e5845ef81bc7\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",
+=======
+            "outputFile": "com.example.geodeer_mobile.app-mergeDebugResources-26:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\8fab08a6f6e27ebe9881e5845ef81bc7\\transformed\\core-1.13.1\\res\\values-pt\\values-pt.xml",
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
                         "startOffsets": "55,152,254,353,453,560,670,790",
                         "endColumns": "96,101,98,99,106,109,119,100",
                         "endOffsets": "147,249,348,448,555,665,785,886"
+<<<<<<< HEAD
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,13",
@@ -35,6 +43,8 @@
                         "startOffsets": "55,152,254,353,453,560,670,1222",
                         "endColumns": "96,101,98,99,106,109,119,100",
                         "endOffsets": "147,249,348,448,555,665,785,1318"
+=======
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                     }
                 }
             ]

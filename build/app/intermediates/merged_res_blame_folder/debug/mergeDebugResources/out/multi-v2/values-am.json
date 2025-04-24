@@ -1,6 +1,7 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "com.example.geodeer_login.app-mergeDebugResources-27:/values-am/values-am.xml",
             "map": [
                 {
@@ -39,6 +40,29 @@
                 },
                 {
                     "source": "C:\\Users\\aziza\\.gradle\\caches\\8.10.2\\transforms\\43c9e116838c7a3d9f358f5d2e3c873b\\transformed\\jetified-play-services-base-18.3.0\\res\\values-am\\values.xml",
+=======
+            "outputFile": "com.example.geodeer_mobile.app-mergeDebugResources-26:/values-am/values-am.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\8fab08a6f6e27ebe9881e5845ef81bc7\\transformed\\core-1.13.1\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,742",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,838"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,27",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,2748",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,2844"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\43c9e116838c7a3d9f358f5d2e3c873b\\transformed\\jetified-play-services-base-18.3.0\\res\\values-am\\values.xml",
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,6 +79,7 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\aziza\\.gradle\\caches\\8.10.2\\transforms\\8fab08a6f6e27ebe9881e5845ef81bc7\\transformed\\core-1.13.1\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -69,6 +94,22 @@
                         "startOffsets": "55,148,248,345,444,540,642,3142",
                         "endColumns": "92,99,96,98,95,101,99,100",
                         "endOffsets": "143,243,340,439,535,637,737,3238"
+=======
+                    "source": "C:\\Users\\Lenovo\\.gradle\\caches\\8.10.2\\transforms\\472f0be6a2cf68d481abc1885971a1f3\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-am\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "127",
+                        "endOffsets": "322"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1667",
+                        "endColumns": "131",
+                        "endOffsets": "1794"
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
                     }
                 }
             ]

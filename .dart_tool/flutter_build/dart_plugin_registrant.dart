@@ -7,6 +7,7 @@
 
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:geolocator_android/geolocator_android.dart';
+<<<<<<< HEAD
 import 'package:path_provider_android/path_provider_android.dart';
 import 'package:url_launcher_android/url_launcher_android.dart';
 import 'package:geolocator_apple/geolocator_apple.dart';
@@ -19,6 +20,10 @@ import 'package:path_provider_foundation/path_provider_foundation.dart';
 import 'package:url_launcher_macos/url_launcher_macos.dart';
 import 'package:path_provider_windows/path_provider_windows.dart';
 import 'package:url_launcher_windows/url_launcher_windows.dart';
+=======
+import 'package:geolocator_apple/geolocator_apple.dart';
+import 'package:geolocator_apple/geolocator_apple.dart';
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
 
 @pragma('vm:entry-point')
 class _PluginRegistrant {
@@ -35,6 +40,7 @@ class _PluginRegistrant {
         );
       }
 
+<<<<<<< HEAD
       try {
         PathProviderAndroid.registerWith();
       } catch (err) {
@@ -53,6 +59,8 @@ class _PluginRegistrant {
         );
       }
 
+=======
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     } else if (Platform.isIOS) {
       try {
         GeolocatorApple.registerWith();
@@ -63,6 +71,7 @@ class _PluginRegistrant {
         );
       }
 
+<<<<<<< HEAD
       try {
         PathProviderFoundation.registerWith();
       } catch (err) {
@@ -100,6 +109,9 @@ class _PluginRegistrant {
         );
       }
 
+=======
+    } else if (Platform.isLinux) {
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     } else if (Platform.isMacOS) {
       try {
         GeolocatorApple.registerWith();
@@ -110,6 +122,7 @@ class _PluginRegistrant {
         );
       }
 
+<<<<<<< HEAD
       try {
         PathProviderFoundation.registerWith();
       } catch (err) {
@@ -147,6 +160,9 @@ class _PluginRegistrant {
         );
       }
 
+=======
+    } else if (Platform.isWindows) {
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     }
   }
 }

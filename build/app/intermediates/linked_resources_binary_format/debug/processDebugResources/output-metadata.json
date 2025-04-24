@@ -4,7 +4,11 @@
     "type": "LINKED_RESOURCES_BINARY_FORMAT",
     "kind": "Directory"
   },
+<<<<<<< HEAD
   "applicationId": "com.example.geodeer_login",
+=======
+  "applicationId": "com.example.geodeer_mobile",
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
   "variantName": "debug",
   "elements": [
     {

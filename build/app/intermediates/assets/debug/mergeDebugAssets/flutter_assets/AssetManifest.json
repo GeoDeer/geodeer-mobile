@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"assets/images/1.png":["assets/images/1.png"],"assets/images/2.png":["assets/images/2.png"],"assets/images/green_arrow.png":["assets/images/green_arrow.png"],"assets/images/logo.png":["assets/images/logo.png"],"assets/images/logo_geodeer.png":["assets/images/logo_geodeer.png"],"assets/images/orange_arrow.png":["assets/images/orange_arrow.png"],"assets/images/player_icon.png":["assets/images/player_icon.png"],"assets/images/red_arrow.png":["assets/images/red_arrow.png"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"],"packages/flutter_map/lib/assets/flutter_map_logo.png":["packages/flutter_map/lib/assets/flutter_map_logo.png"]}
+=======
+{"assets/images/1.png":["assets/images/1.png"],"assets/images/logo_geodeer.png":["assets/images/logo_geodeer.png"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"],"packages/flutter_map/lib/assets/flutter_map_logo.png":["packages/flutter_map/lib/assets/flutter_map_logo.png"]}
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c

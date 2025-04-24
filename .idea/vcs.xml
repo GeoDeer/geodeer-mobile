@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/web/geodeer_login" vcs="Git" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
   </component>
 </project>

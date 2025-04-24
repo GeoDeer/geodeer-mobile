@@ -2,6 +2,7 @@ C/C++ Structured Log€
 ~
 |C:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\additional_project_files.txtC
 A
+<<<<<<< HEAD
 ?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	ÏßÎÐÚ2  ÝáËÙ2}
 {
 yC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\android_gradle_build.json	ÏßÎÐÚ2ç ¢ÝáËÙ2ƒ
@@ -26,3 +27,29 @@ y
 wC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\symbol_folder_index.txt	ÏßÎÐÚ2n §ÝáËÙ2W
 U
 SC:\development\flutter\packages\flutter_tools\gradle\src\main\groovy\CMakeLists.txt	ÏßÎÐÚ2§ ›€Ð‰Õ2
+=======
+?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	™ÅÏÎÚ2  ÝáËÙ2}
+{
+yC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\android_gradle_build.json	™ÅÏÎÚ2ç ¢ÝáËÙ2ƒ
+€
+~C:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\android_gradle_build_mini.json	™ÅÏÎÚ2À ¥ÝáËÙ2o
+m
+kC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\build.ninja	™ÅÏÎÚ2ãÖ ·ÜáËÙ2s
+q
+oC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\build.ninja.txt	™ÅÏÎÚ2x
+v
+tC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\build_file_index.txt	™ÅÏÎÚ2S ¨ÝáËÙ2y
+w
+uC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\compile_commands.json	™ÅÏÎÚ2}
+{
+yC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\compile_commands.json.bin	™ÅÏÎÚ2	„
+
+C:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\metadata_generation_command.txt	™ÅÏÎÚ2
+’	 ¦ÝáËÙ2v
+t
+rC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\prefab_config.json	™ÅÏÎÚ2( §ÝáËÙ2{
+y
+wC:\Users\Lenovo\AndroidStudioProjects\geodeer_login\android\app\.cxx\Debug\1i6e1y2t\armeabi-v7a\symbol_folder_index.txt	™ÅÏÎÚ2n §ÝáËÙ2W
+U
+SC:\development\flutter\packages\flutter_tools\gradle\src\main\groovy\CMakeLists.txt	™ÅÏÎÚ2§ ›€Ð‰Õ2
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c

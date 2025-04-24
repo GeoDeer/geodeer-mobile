@@ -68,7 +68,11 @@
         <entry key="flutter">
           <value>
             <list>
+<<<<<<< HEAD
               <option value="$PROJECT_DIR$/../../../../development/flutter/packages/flutter/lib" />
+=======
+              <option value="$PROJECT_DIR$/../../../../../../development/flutter/packages/flutter/lib" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             </list>
           </value>
         </entry>
@@ -89,14 +93,22 @@
         <entry key="flutter_test">
           <value>
             <list>
+<<<<<<< HEAD
               <option value="$PROJECT_DIR$/../../../../development/flutter/packages/flutter_test/lib" />
+=======
+              <option value="$PROJECT_DIR$/../../../../../../development/flutter/packages/flutter_test/lib" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             </list>
           </value>
         </entry>
         <entry key="flutter_web_plugins">
           <value>
             <list>
+<<<<<<< HEAD
               <option value="$PROJECT_DIR$/../../../../development/flutter/packages/flutter_web_plugins/lib" />
+=======
+              <option value="$PROJECT_DIR$/../../../../../../development/flutter/packages/flutter_web_plugins/lib" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             </list>
           </value>
         </entry>
@@ -264,7 +276,11 @@
         <entry key="sky_engine">
           <value>
             <list>
+<<<<<<< HEAD
               <option value="$PROJECT_DIR$/../../../../development/flutter/bin/cache/pkg/sky_engine/lib" />
+=======
+              <option value="$PROJECT_DIR$/../../../../../../development/flutter/bin/cache/pkg/sky_engine/lib" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
             </list>
           </value>
         </entry>
@@ -417,10 +433,17 @@
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.3.1/lib" />
       <root url="file://$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/wkt_parser-2.0.0/lib" />
+<<<<<<< HEAD
       <root url="file://$PROJECT_DIR$/../../../../development/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://$PROJECT_DIR$/../../../../development/flutter/packages/flutter/lib" />
       <root url="file://$PROJECT_DIR$/../../../../development/flutter/packages/flutter_test/lib" />
       <root url="file://$PROJECT_DIR$/../../../../development/flutter/packages/flutter_web_plugins/lib" />
+=======
+      <root url="file://$PROJECT_DIR$/../../../../../../development/flutter/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../development/flutter/packages/flutter/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../development/flutter/packages/flutter_test/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../../../development/flutter/packages/flutter_web_plugins/lib" />
+>>>>>>> 9c41bb8dcd3d161309dd7437d5c0b2f17b61784c
     </CLASSES>
     <JAVADOC />
     <SOURCES />
